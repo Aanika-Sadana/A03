@@ -1,6 +1,6 @@
 # A03. Create a Github Account with Git/Webstorm/Github/Tutorial. Define Terms
 
-####Tutorial for Git, Webstorm, and GitHub
+#### Tutorial for Git, Webstorm, and GitHub
 <ol>
     <li>Install Git from <a href="https://git-scm.com/downloads">here</a>.</li>
     <li>Install Webstorm from <a href="https://www.jetbrains.com/student/">here</a> and run it.</li>
@@ -13,12 +13,12 @@
     <li>Your file and commit comments are now in your Github repository.</li>
 </ol>
 
-#####Reference:
+##### Reference:
 “Commit and Push Changes to Git Repository.” Commit and Push Changes to Git Repository - Help | WebStorm, JetBrains, 16 Sept. 2020, www.jetbrains.com/help/webstorm/commit-and-push-changes.html.
 
 <br></br>
 
-####Definitions
+#### Definitions
 <ul>
     <li><strong>Branch: </strong>points to a certain commit made</li>
     <li><strong>Clone: </strong>creates a copy of a repository as a local file</li>
