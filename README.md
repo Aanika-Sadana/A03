@@ -1,6 +1,6 @@
 # A03. Create a Github Account with Git/Webstorm/Github/Tutorial. Define Terms
 
-#### Tutorial for Git, Webstorm, and GitHub
+### Tutorial for Git, Webstorm, and GitHub
 <ol>
     <li>Install Git from <a href="https://git-scm.com/downloads">here</a>.</li>
     <li>Install Webstorm from <a href="https://www.jetbrains.com/student/">here</a> and run it.</li>
@@ -18,7 +18,7 @@
 
 <br></br>
 
-#### Definitions
+### Definitions
 <ul>
     <li><strong>Branch: </strong>points to a certain commit made</li>
     <li><strong>Clone: </strong>creates a copy of a repository as a local file</li>
